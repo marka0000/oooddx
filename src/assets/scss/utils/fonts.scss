@@ -1,0 +1,56 @@
+/**
+* Fonts
+*/
+
+/**
+* Fonts "Gotham Pro"
+*/
+
+// Gotham Pro - Light
+@font-face {
+	font-family: "GothamPro-Light";
+	src: url('/dist/assets/fonts/GothamPro/Light/GothamPro-Light.eot'); /* IE9 Compat Modes */
+	src: url('/dist/assets/fonts/GothamPro/Light/GothamPro-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/dist/assets/fonts/GothamPro/Light/GothamPro-Light.woff') format('woff'), /* Pretty Modern Browsers */
+	url('/dist/assets/fonts/GothamPro/Light/GothamPro-Light.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+// Gotham Pro - Narrow Medium
+@font-face {
+	font-family: "GothamPro-NarrowMedium";
+	src: url('/dist/assets/fonts/GothamPro/NarrowMedium/GothamProNarrow-Medium.eot'); /* IE9 Compat Modes */
+	src: url('/dist/assets/fonts/GothamPro/NarrowMedium/GothamProNarrow-Medium.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/dist/assets/fonts/GothamPro/NarrowMedium/GothamProNarrow-Medium.woff') format('woff'), /* Pretty Modern Browsers */
+	url('/dist/assets/fonts/GothamPro/NarrowMedium/GothamProNarrow-Medium.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+// Gotham Pro - Bold
+@font-face {
+	font-family: "GothamPro-Bold";
+	src: url('/dist/assets/fonts/GothamPro/Bold/GothamPro-Bold.eot'); /* IE9 Compat Modes */
+	src: url('/dist/assets/fonts/GothamPro/Bold/GothamPro-Bold.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/dist/assets/fonts/GothamPro/Bold/GothamPro-Bold.woff') format('woff'), /* Pretty Modern Browsers */
+	url('/dist/assets/fonts/GothamPro/Bold/GothamPro-Bold.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+/**
+* Fonts "Roboto"
+*/
+
+// Roboto - Light
+@font-face {
+	font-family: "Roboto-Light";
+	src: url('/dist/assets/fonts/Roboto/Light/Roboto-Light.eot'); /* IE9 Compat Modes */
+	src: url('/dist/assets/fonts/Roboto/Light/Roboto-Light.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/dist/assets/fonts/Roboto/Light/Roboto-Light.woff') format('woff'), /* Pretty Modern Browsers */
+	url('/dist/assets/fonts/Roboto/Light/Roboto-Light.ttf') format('truetype'); /* Safari, Android, iOS */
+}
+
+// Roboto - Regular
+@font-face {
+	font-family: "Roboto-Regular";
+	src: url('/dist/assets/fonts/Roboto/Regular/Roboto-Regular.eot'); /* IE9 Compat Modes */
+	src: url('/dist/assets/fonts/Roboto/Regular/Roboto-Regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+	url('/dist/assets/fonts/Roboto/Regular/Roboto-Regular.woff') format('woff'), /* Pretty Modern Browsers */
+	url('/dist/assets/fonts/Roboto/Regular/Roboto-Regular.ttf') format('truetype'); /* Safari, Android, iOS */
+}
