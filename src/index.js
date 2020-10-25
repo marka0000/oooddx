@@ -9,7 +9,7 @@ import './assets/css/main.css';
 import './assets/scss/main.scss';
 
 // Bootstrap JS
-import './js/modules/bootstrap/bootstrap';
+import './modules/bootstrap/bootstrap';
 
 // Bootstrap SCSS
-import './assets/scss/modules/bootstrap/bootstrap.scss';
+import './modules/bootstrap/bootstrap.scss';

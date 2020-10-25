@@ -5,15 +5,15 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 
-@import "~bootstrap/scss/functions";
-@import "~bootstrap/scss/variables";
-@import "~bootstrap/scss/mixins";
-@import "~bootstrap/scss/root";
-@import "~bootstrap/scss/reboot";
-@import "~bootstrap/scss/type";
+@import "../../../node_modules/bootstrap/scss/functions";
+@import "../../../node_modules/bootstrap/scss/variables";
+@import "../../../node_modules/bootstrap/scss/mixins";
+@import "../../../node_modules/bootstrap/scss/root";
+@import "../../../node_modules/bootstrap/scss/reboot";
+@import "../../../node_modules/bootstrap/scss/type";
 //@import "~bootstrap/scss/images";
 //@import "~bootstrap/scss/code";
-@import "~bootstrap/scss/grid";
+@import "../../../node_modules/bootstrap/scss/grid";
 //@import "~bootstrap/scss/tables";
 //@import "~bootstrap/scss/forms";
 //@import "~bootstrap/scss/buttons";
@@ -41,4 +41,4 @@
 //@import "~bootstrap/scss/carousel";
 //@import "~bootstrap/scss/spinners";
 //@import "~bootstrap/scss/utilities";
-@import "~bootstrap/scss/print";
+@import "../../../node_modules/bootstrap/scss/print";
