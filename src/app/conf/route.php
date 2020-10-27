@@ -2,7 +2,8 @@
 
 class Routing {
 
-	public static function buildRoute() {
+	public static function buildRoute()
+	{
 		$controllerName = 'IndexController';
 		$modelName = 'IndexModel';
 		$action = 'index';
@@ -25,7 +26,8 @@ class Routing {
 		$controller->$action();
 	}
 
-	public function errorPage() {
+	public function errorPage()
+	{
 
 	}
 }

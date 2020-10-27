@@ -2,12 +2,13 @@
 
 class Controller {
 
-	public $model;
-	public $view;
-	protected $pageData = array();
+	public $Model;
+	public $View;
+	protected $pageData = [];
 
-	public function __construct() {
-		$this->view = new View();
-		$this->model = new Model();
+	public function __construct()
+	{
+		$this->View = new View();
+		$this->Model = new Model();
 	}
 }
